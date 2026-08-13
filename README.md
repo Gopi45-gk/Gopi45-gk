@@ -8,8 +8,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=6C63FF&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgopi45-gk%2Fprofile&style=for-the-badge&logo=github" alt="views"/>
-<img src="https://komarev.com/ghpvc/?username=Gopi45-gk&label=Visitors&color=00C6FF&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Gopi45-gk&label=Profile%20Views&color=00C6FF&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/Gopi45-gk?label=Followers&style=for-the-badge&color=6C63FF&logo=github" alt="followers"/>
 
 <br/>
@@ -25,7 +24,7 @@
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
 - 🎓 B.E. Computer Science (AI & ML) student, Prathyusha Engineering College, Chennai
-- 🚀 Founder & Tech Lead of **[VETRINEX](https://gopikrishna.co.in)** 
+- 🚀 Founder & Tech Lead of **[VETRINEX](https://gopikrishna.co.in)** — co-founded with Pavithra M
 - 🧠 I live at the intersection of **hackathon strategy** and **real technical implementation**
 - 🌱 Focused on AI/ML for Indian societal domains: **agriculture · railways · healthcare**
 - 🏆 Multiple hackathon first-place wins
