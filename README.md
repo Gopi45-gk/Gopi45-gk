@@ -25,7 +25,7 @@
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
 - 🎓 B.E. Computer Science (AI & ML) student, Prathyusha Engineering College, Chennai
-- 🚀 Founder & Tech Lead of **[VETRINEX](https://gopikrishna.co.in)** — co-founded with Pavithra M
+- 🚀 Founder & Tech Lead of **[VETRINEX](https://gopikrishna.co.in)** 
 - 🧠 I live at the intersection of **hackathon strategy** and **real technical implementation**
 - 🌱 Focused on AI/ML for Indian societal domains: **agriculture · railways · healthcare**
 - 🏆 Multiple hackathon first-place wins
