@@ -8,21 +8,21 @@
 
 <!-- ===================== DYNAMIC TERMINAL & TYPING ===================== -->
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&height=60&lines=System.out.println(%22Hello%2C+I'm+Gopikrishna!%22);AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Computer+Vision+%7C+Full-Stack+%7C+Robotics;Founder+%26+Tech+Lead+%40+VETRINEX+%F0%9F%9A%80;Turning+Bold+Ideas+Into+Intelligent+Systems" alt="Typing title" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&height=60&lines=System.out.println(%22Hello%2C+I'm+Gopikrishna!%22);AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Computer+Vision+%7C+Full-Stack+%7C+Robotics;Founder+%26+Tech+Lead+%40+VETRINEX+%F0%9F%9A%80;Turning+Bold+Ideas+Into+Intelligent+Systems" alt="Typing title" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=800&color=34D399&center=true&vCenter=true&width=800&height=40&lines=%5BOK%5D+AI+CORE+...+ONLINE;%5BOK%5D+MACHINE+LEARNING+...+LOADED;%5BOK%5D+COMPUTER+VISION+...+ACTIVE;%5BOK%5D+FULL-STACK+ENGINE+...+READY;%5BOK%5D+VETRINEX+SYSTEMS+...+NOMINAL;%5BOK%5D+ESTABLISHING+CONNECTION..." alt="System boot animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=800&color=34D399&center=true&vCenter=true&width=800&height=40&lines=%5BOK%5D+AI+CORE+...+ONLINE;%5BOK%5D+MACHINE+LEARNING+...+LOADED;%5BOK%5D+COMPUTER+VISION+...+ACTIVE;%5BOK%5D+FULL-STACK+ENGINE+...+READY;%5BOK%5D+VETRINEX+SYSTEMS+...+NOMINAL;%5BOK%5D+ESTABLISHING+CONNECTION..." alt="System boot animation" />
 <br>
 
 <!-- ===================== HOLOGRAPHIC SOCIAL BADGES ===================== -->
 <p align="center">
   <a href="https://gopikrishna.co.in"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-gopikrishna.co.in-06B6D4?style=for-the-badge&labelColor=0B1220" /></a>
   <a href="https://www.linkedin.com/in/gopikrishna-s-022856302"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-GOPIKRISHNA_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/gopi"><img src="https://img.shields.io/badge/%F0%9F%92%BB_GITHUB-GOPI-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:gopikaru0090@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Gopi45-gk"><img src="https://img.shields.io/badge/%F0%9F%92%BB_GITHUB-Gopi45--gk-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:gopikaru0090@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_EMAIL-gopikaru0090@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gopi&label=PROFILE+VIEWS&color=22D3EE&style=for-the-badge&base=1000" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Gopi45-gk&label=PROFILE+VIEWS&color=22D3EE&style=for-the-badge&base=1000" alt="Profile views" />
   <img src="https://img.shields.io/badge/Founder-VETRINEX-A855F7?style=for-the-badge&labelColor=0B1220" alt="Founder VETRINEX" />
   <img src="https://img.shields.io/badge/CGPA-8.71-FBBF24?style=for-the-badge&labelColor=0B1220" alt="CGPA" />
 </p>
@@ -64,8 +64,6 @@ I don't just write code; I architect systems that solve complex, real-world prob
 *   **🚁 Hardware:** Autonomous Drones
 *   **🌐 Uplink:** [gopikrishna.co.in](https://gopikrishna.co.in)
 
-<br>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="mini snake" />
 </td>
 </tr>
 </table>
@@ -111,7 +109,7 @@ I don't just write code; I architect systems that solve complex, real-world prob
 
 ## 🚀 `deployed_systems.exe`
 
-> *All projects below are architected and led under **VETRINEX**, co-founded with Pavithra M.*
+> *All projects below are architected and led under **VETRINEX**.*
 
 <table align="center" width="100%">
 <tr>
@@ -171,56 +169,30 @@ Real-time multilingual speech recognition, translation, AI dubbing, live caption
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,30:0891B2,50:22D3EE,70:0891B2,100:020617&height=2&width=800&animation=fadeIn" width="100%" alt="divider" />
 </div>
 
-## 🏆 `milestones.log`
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%A5%87+MULTIPLE+1ST+PRIZE+WINS+%F0%9F%A5%87;%F0%9F%8F%86+NATIONAL-LEVEL+FINALIST+%F0%9F%8F%86;%F0%9F%9A%80+DRIVING+INNOVATION+IN+HACKATHONS+%F0%9F%9A%80" alt="Achievements title" />
-</div>
-
-<table align="center" width="100%">
-<tr><th width="10%">🏅</th><th width="30%">Event / Venue</th><th width="60%">Result & Recognition</th></tr>
-<tr><td align="center">🥇</td><td><b>Project Expo</b></td><td>1st Prize — Vel Tech R&D Institute</td></tr>
-<tr><td align="center">🥇</td><td><b>Project Expo</b></td><td>1st Prize — Agni College of Technology</td></tr>
-<tr><td align="center">🥇</td><td><b>Paper Presentation</b></td><td>1st Prize — King's College of Engineering</td></tr>
-<tr><td align="center">🥇</td><td><b>Paper Presentation</b></td><td>1st Prize — Sri Venkateshwara Eng. & Tech.</td></tr>
-<tr><td align="center">🏅</td><td><b>PALS InnoWAH</b></td><td>Finalist + Best Appreciation Award + Amazon Voucher</td></tr>
-<tr><td align="center">🏆</td><td><b>Hackathon–Codeathon</b></td><td>Best Team Award — Prathyusha Engineering College</td></tr>
-<tr><td align="center">🌍</td><td><b>NIDAR 2025</b></td><td>13th Rank — National-Level Competition</td></tr>
-<tr><td align="center">🏅</td><td><b>India–Israel Hackathon</b></td><td>Finalist</td></tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,30:0891B2,50:22D3EE,70:0891B2,100:020617&height=2&width=800&animation=fadeIn" width="100%" alt="divider" />
-</div>
-
 ## 📊 `github_analytics.dashboard`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=22D3EE&icon_color=34D399&text_color=C9D1D9" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000&title_color=22D3EE&text_color=C9D1D9" width="48%" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopi45-gk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=22D3EE&icon_color=34D399&text_color=C9D1D9" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi45-gk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000&title_color=22D3EE&text_color=C9D1D9" width="48%" alt="Top languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopi&theme=tokyo-night&bg_color=00000000&color=22D3EE&line=34D399&point=FBBF24&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi45-gk&theme=tokyo-night&bg_color=00000000&color=22D3EE&line=34D399&point=FBBF24&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gopi&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gopi45-gk&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gopi&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE" width="60%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Gopi45-gk&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE" width="60%" alt="GitHub streak" />
 </div>
-
-> **Note:** The snake, stats, streak, and activity-graph widgets map directly to the `gopi` GitHub handle. Make sure to schedule the `platane/snk` action in your repository to keep the contribution grid animated!
 
 <br>
 
@@ -231,8 +203,12 @@ Real-time multilingual speech recognition, translation, AI dubbing, live caption
 ## 🐍 `contribution_matrix.svg`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/Gopi45-gk/Gopi45-gk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
 </div>
+<br>
+<p align="center">
+  <sub><b>Note:</b> If the snake animation above is empty, ensure you have set up the <a href="https://github.com/Platane/snk">platane/snk</a> GitHub Action to output to the <code>output</code> branch of your <code>Gopi45-gk</code> repository.</sub>
+</p>
 
 <br>
 
@@ -257,8 +233,8 @@ Real-time multilingual speech recognition, translation, AI dubbing, live caption
 
 <a href="https://gopikrishna.co.in"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-gopikrishna.co.in-22D3EE?style=for-the-badge&labelColor=0B1220" /></a>
 <a href="https://www.linkedin.com/in/gopikrishna-s-022856302"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-GOPIKRISHNA_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/gopi"><img src="https://img.shields.io/badge/%F0%9F%92%BB_GITHUB-GOPI-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:gopikaru0090@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_EMAIL-GOPIKARU0090-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Gopi45-gk"><img src="https://img.shields.io/badge/%F0%9F%92%BB_GITHUB-Gopi45--gk-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:gopikaru0090@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_EMAIL-gopikaru0090@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2300&pause=700&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+intelligent+together.;%E2%AD%90+Explore+my+repositories+and+portfolio!" alt="Closing animation" /><br>
