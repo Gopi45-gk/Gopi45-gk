@@ -9,7 +9,8 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=4000&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&height=50&lines=%3E+ACCESSING+MAINFRAME...;%3E+BYPASSING+SECURITY+PROTOCOLS...;%3E+AI+CORE+LOADED+SUCCESSFULLY.;%3E+WELCOME+TO+MY+WORKSPACE." alt="Hacker Boot" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=2000&pause=300&color=00FF41&center=true&vCenter=true&width=800&height=40&lines=LOADING_MODULES:+[████████████████████]100%25;AUTONOMOUS_DRONE_SYSTEMS+...+[ACTIVE];SATELLITE_CROP_ANALYSIS+...+[ACTIVE];NEURAL_NETWORKS+...+[CALIBRATED];VETRINEX_STARTUP_ENGINE+...+[RUNNING]" alt="System Check" />
+<!-- BUG FIXED: URL Encoded Text to prevent API crash -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=2000&pause=300&color=00FF41&center=true&vCenter=true&width=800&height=40&lines=LOADING+MODULES...+100%25;AUTONOMOUS+DRONES+...+ACTIVE;SATELLITE+ANALYSIS+...+ACTIVE;NEURAL+NETWORKS+...+CALIBRATED;VETRINEX+ENGINE+...+RUNNING" alt="System Check" />
 <br>
 
 <!-- ===================== COMMAND CENTER BADGES ===================== -->
@@ -52,7 +53,8 @@
 
 ### 📡 `[LIVE_TELEMETRY]`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi45-gk&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Top languages" />
+<!-- BUG FIXED: Changed layout to compact for better stability -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gopi45-gk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Top languages" />
 
 </td>
 </tr>
@@ -136,7 +138,6 @@ Next-gen AI multilingual platform. Performs real-time speech recognition, transl
 </div>
 
 <div align="center">
-  <!-- GitHub Activity Graph (Fully Working) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi45-gk&theme=radical&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 </div>
 
@@ -145,11 +146,10 @@ Next-gen AI multilingual platform. Performs real-time speech recognition, transl
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <!-- GitHub Stats (Fixed API) -->
+      <!-- BUG FIXED: Cleaned parameters -->
       <img src="https://github-readme-stats.vercel.app/api?username=Gopi45-gk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub stats" />
     </td>
     <td align="center" width="50%">
-      <!-- GitHub Streak (Fixed API) -->
       <img src="https://streak-stats.demolab.com/?user=Gopi45-gk&theme=radical&hide_border=true&background=0D1117" width="100%" alt="GitHub streak" />
     </td>
   </tr>
@@ -158,8 +158,8 @@ Next-gen AI multilingual platform. Performs real-time speech recognition, transl
 <br>
 
 <div align="center">
-  <!-- GitHub Trophies (Fixed API) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Gopi45-gk&theme=radical&no-frame=true&no-bg=true&margin-w=15" width="100%" alt="GitHub trophies" />
+  <!-- BUG FIXED: Corrected Trophy API -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Gopi45-gk&theme=radical&no-frame=true&no-bg=true" width="100%" alt="GitHub trophies" />
 </div>
 
 <br>
@@ -169,11 +169,11 @@ Next-gen AI multilingual platform. Performs real-time speech recognition, transl
 ## 🐍 `[SYSTEM_CONTRIBUTIONS.SVG]`
 
 <div align="center">
-  <!-- GitHub Snake -->
-  <img src="https://raw.githubusercontent.com/Gopi45-gk/Gopi45-gk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+  <!-- TEMPORARY PLACEHOLDER: Will show a sample snake until you generate your own -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
 </div>
 
-> **[SYSTEM_ALERT]**: To make the snake load, create a file at `.github/workflows/snake.yml` inside your `Gopi45-gk` repository. Paste [this template code](https://github.com/Platane/snk?tab=readme-ov-file#github-action) in it. It will auto-generate the snake image for you!
+> **[ACTION REQUIRED]**: The snake above is a placeholder! To get **YOUR** real snake, create a folder `.github/workflows/` in your `Gopi45-gk` repo, add a `snake.yml` file, and paste the [Platane/snk template](https://github.com/Platane/snk). Once the action runs, replace the image link above with: `https://raw.githubusercontent.com/Gopi45-gk/Gopi45-gk/output/github-contribution-grid-snake-dark.svg`
 
 <br>
 
