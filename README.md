@@ -52,7 +52,7 @@
 
 ### 📡 `[LIVE_TELEMETRY]`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi45-gk&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" width="100%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi45-gk&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Top languages" />
 
 </td>
 </tr>
@@ -136,21 +136,30 @@ Next-gen AI multilingual platform. Performs real-time speech recognition, transl
 </div>
 
 <div align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi45-gk&theme=radical&bg_color=0D1117&color=00F0FF&line=FF00FF&point=00FF41&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+  <!-- GitHub Activity Graph (Fully Working) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi45-gk&theme=radical&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopi45-gk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=FFFFFF" width="49%" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Gopi45-gk&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00FF&currStreakLabel=00FF41" width="49%" alt="GitHub streak" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <!-- GitHub Stats (Fixed API) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Gopi45-gk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub stats" />
+    </td>
+    <td align="center" width="50%">
+      <!-- GitHub Streak (Fixed API) -->
+      <img src="https://streak-stats.demolab.com/?user=Gopi45-gk&theme=radical&hide_border=true&background=0D1117" width="100%" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gopi45-gk&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies" />
+  <!-- GitHub Trophies (Fixed API) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Gopi45-gk&theme=radical&no-frame=true&no-bg=true&margin-w=15" width="100%" alt="GitHub trophies" />
 </div>
 
 <br>
@@ -160,8 +169,11 @@ Next-gen AI multilingual platform. Performs real-time speech recognition, transl
 ## 🐍 `[SYSTEM_CONTRIBUTIONS.SVG]`
 
 <div align="center">
+  <!-- GitHub Snake -->
   <img src="https://raw.githubusercontent.com/Gopi45-gk/Gopi45-gk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
 </div>
+
+> **[SYSTEM_ALERT]**: To make the snake load, create a file at `.github/workflows/snake.yml` inside your `Gopi45-gk` repository. Paste [this template code](https://github.com/Platane/snk?tab=readme-ov-file#github-action) in it. It will auto-generate the snake image for you!
 
 <br>
 
