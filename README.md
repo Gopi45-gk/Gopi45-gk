@@ -1,206 +1,176 @@
 <div align="center">
 
-<!-- ===================== ANIMATED NEON HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:0891B2,45:06B6D4,70:22D3EE,100:A5F3FC&height=280&section=header&text=GOPIKRISHNA%20S&fontSize=60&fontColor=F0FDFF&fontAlignY=35&desc=AI%20%26%20ML%20Developer%20%E2%80%A2%20Founder%20%40%20VETRINEX&descAlignY=55&descSize=18&animation=twinkling" width="100%" alt="Hero banner" />
+<!-- ===================== CYBERPUNK HUD ANIMATED BANNER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:00F0FF,50:8A2BE2,80:FF00FF,100:0D1117&height=320&section=header&text=GOPIKRISHNA_S&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=[SYSTEM_ONLINE]%20::%20AI_ARCHITECT%20//%20FOUNDER_@_VETRINEX&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Cyberpunk Banner" />
 
-<!-- Glowing Pulse Bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0891B2,50:22D3EE,70:0891B2,100:0D1117&height=6&width=1000&animation=fadeIn" width="100%" alt="accent bar" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF00FF,100:00F0FF&height=4&width=1000&animation=fadeIn" width="100%" alt="Neon Divider" />
 
+<!-- ===================== HACKER BOOT SEQUENCE ===================== -->
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=4000&pause=500&color=00F0FF&center=true&vCenter=true&width=1000&height=50&lines=%3E+ACCESSING+MAINFRAME...;%3E+BYPASSING+SECURITY+PROTOCOLS...;%3E+AI+CORE+LOADED+SUCCESSFULLY.;%3E+WELCOME+TO+MY+WORKSPACE." alt="Hacker Boot" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=2000&pause=300&color=00FF41&center=true&vCenter=true&width=800&height=40&lines=LOADING_MODULES:+[████████████████████]100%25;AUTONOMOUS_DRONE_SYSTEMS+...+[ACTIVE];SATELLITE_CROP_ANALYSIS+...+[ACTIVE];NEURAL_NETWORKS+...+[CALIBRATED];VETRINEX_STARTUP_ENGINE+...+[RUNNING]" alt="System Check" />
 <br>
 
-<!-- ===================== HOLOGRAPHIC TYPING EFFECT ===================== -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=System.out.println(%22Hello%2C+I'm+Gopikrishna!%22);Building+AI+%26+Machine+Learning+Systems+%E2%9A%9B%EF%B8%8F;Developing+Autonomous+Drones+%26+Robotics+%F0%9F%9A%80;Full-Stack+Architect+%7C+Computer+Vision+Expert;Turning+Bold+Ideas+Into+Reality+%E2%9C%A8" alt="Typing title" />
-<br>
-
-<!-- ===================== SOCIAL LINKS (SLEEK BADGES) ===================== -->
+<!-- ===================== COMMAND CENTER BADGES ===================== -->
 <p align="center">
-  <a href="https://gopikrishna.co.in"><img src="https://img.shields.io/badge/PORTFOLIO-gopikrishna.co.in-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1220" /></a>
-  <a href="https://www.linkedin.com/in/gopikrishna-s-022856302"><img src="https://img.shields.io/badge/LINKEDIN-Gopikrishna_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220" /></a>
-  <a href="https://github.com/Gopi45-gk"><img src="https://img.shields.io/badge/GITHUB-Gopi45--gk-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" /></a>
-  <a href="mailto:gopikaru0090@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1220" /></a>
+  <a href="https://gopikrishna.co.in"><img src="https://img.shields.io/badge/UPLINK-PORTFOLIO-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/gopikrishna-s-022856302"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://github.com/Gopi45-gk"><img src="https://img.shields.io/badge/DATABANK-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+  <a href="mailto:gopikaru0090@gmail.com"><img src="https://img.shields.io/badge/COMM_CHANNEL-EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gopi45-gk&label=PROFILE+VIEWS&color=22D3EE&style=for-the-badge&base=1000" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Founder-VETRINEX-A855F7?style=for-the-badge&labelColor=0B1220" alt="Founder VETRINEX" />
-  <img src="https://img.shields.io/badge/CGPA-8.71-FBBF24?style=for-the-badge&labelColor=0B1220" alt="CGPA" />
+  <img src="https://komarev.com/ghpvc/?username=Gopi45-gk&label=SYSTEM_PINGS&color=00F0FF&style=for-the-badge&base=1000" alt="Profile views" />
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-FOUNDER_@_VETRINEX-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Founder VETRINEX" />
+  <img src="https://img.shields.io/badge/PROCESSING_POWER-8.71_CGPA-00FF41?style=for-the-badge&labelColor=0D1117" alt="CGPA" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF00FF,100:0D1117&height=2&width=1000&animation=fadeIn" width="100%" alt="Neon Divider" />
+</div>
+
 <br>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0891B2,50:22D3EE,70:0891B2,100:0D1117&height=2&width=900&animation=fadeIn" width="100%" alt="divider" />
-</div>
-
-## 👨‍💻 `whoami`
-
-<table>
+<table align="center" width="100%" style="border: 2px solid #00F0FF; background-color: #0D1117;">
 <tr>
-<td width="60%" valign="top">
-  
-> *"Ship fast, iterate faster."* 🚀
+<td width="65%" valign="top">
 
-I'm **Gopikrishna S**, an AI & ML Engineering student at Prathyusha Engineering College. As the **Founder & Tech Lead of VETRINEX**, I lead teams to build AI/ML systems for agriculture, railways, and healthcare across India.
+### 🤖 `[USER_IDENTITY_EXTRACTED]`
 
-I specialize in architecting systems that solve complex, real-world problems—from fine-tuning LLMs to building full-stack web platforms and programming autonomous GPS-denied drones using ROS 2.
+> *"I don't write code. I engineer intelligence."* ⚙️
 
-**Currently executing:**
-*   `drone_autonomy.exe`: Building indoor search & mapping for the **NIDAR AirMouse** competition on ROS 2, ArduPilot, and Gazebo.
-*   `ai_agritech.py`: Scaling **UzhavanAI / JALDOOT** for satellite crop water-stress advisory.
+**Gopikrishna S** here. AI/ML Engineering student at Prathyusha Engineering College & the **Founder/Tech Lead of VETRINEX**. I specialize in turning complex algorithms into real-world deployments across agriculture, healthcare, and defense-tech.
 
-</td>
-<td width="40%" valign="top">
-
-### ⚡ QUICK LINKS
-*   **🎓 Education:** B.E. AI & ML
-*   **🧠 Core:** AI · ML · CV
-*   **💻 Stack:** Full-Stack · IoT
-*   **🚁 Current Build:** Autonomous Drones
-*   **🌐 Portfolio:** [gopikrishna.co.in](https://gopikrishna.co.in)
+**<kbd>CURRENT_OPERATIONS</kbd>**
+*   `autonomy.sh`: Developing indoor search & mapping for **NIDAR AirMouse** using ROS 2, SLAM, ArduPilot & Gazebo.
+*   `agritech.exe`: Scaling **UzhavanAI / JALDOOT** to analyze satellite crop water-stress.
 
 <br>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=34D399&width=300&height=30&lines=status+%3D+%22Open+to+Hackathons%22;" alt="Status" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=500&color=FF00FF&width=450&height=30&lines=WARNING:+Extreme+Hackathon+Enthusiast+Detected;STATUS:+Ready+to+Deploy;" alt="Warning" />
+</td>
+<td width="35%" valign="top">
+
+### 📡 `[LIVE_TELEMETRY]`
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi45-gk&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" width="100%" alt="Top languages" />
+
 </td>
 </tr>
 </table>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0891B2,50:22D3EE,70:0891B2,100:0D1117&height=2&width=900&animation=fadeIn" width="100%" alt="divider" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=40&lines=---%3E+INITIALIZING+TECH_ARSENAL+---%3E" alt="Arsenal Loading" />
 </div>
 
-## 🛠️ `tech_arsenal.json`
-
 <div align="center">
-<br>
 <img src="https://skillicons.dev/icons?i=python,c,js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,mongodb,firebase,aws,vercel,github,vscode,jupyter,tensorflow,pytorch,git,figma,docker&perline=12" alt="Technology stack" />
 <br><br>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-22D3EE?style=flat-square&logo=openai&logoColor=white&labelColor=0B1220" />
-<img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0B1220" />
-<img src="https://img.shields.io/badge/Computer%20Vision-0284C7?style=flat-square&logo=opencv&logoColor=white&labelColor=0B1220" />
-<img src="https://img.shields.io/badge/Full--Stack-075985?style=flat-square&logo=react&logoColor=white&labelColor=0B1220" />
-<img src="https://img.shields.io/badge/Robotics%20%26%20Drones-155E75?style=flat-square&logo=ros&logoColor=white&labelColor=0B1220" />
+<!-- Cyberpunk Badges -->
+<img src="https://img.shields.io/badge/AI_%2F_ML_ENGINE-00F0FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/COMPUTER_VISION-8A2BE2?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ROBOTICS_%26_ROS_2-FF00FF?style=for-the-badge&logo=ros&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FULL_STACK_DEV-00FF41?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" />
 </div>
 
 <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F0FF,100:0D1117&height=2&width=1000&animation=fadeIn" width="100%" alt="Neon Divider" />
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0891B2,50:22D3EE,70:0891B2,100:0D1117&height=2&width=900&animation=fadeIn" width="100%" alt="divider" />
-</div>
-
-## 🚀 `deployed_systems.exe`
-
-> *All projects below are architected and led under **VETRINEX**.*
+## 🚀 `[MISSION_LOGS: VETRINEX_SYSTEMS]`
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
   
-### 🌾 UzhavanAI + JALDOOT
-**Satellite-Driven Agri-Tech Platform**
-AI-based crop water-stress detection and farmer advisory using satellite imagery. Integrated with a local digital marketplace.
+### 🛰️ MISSION: UzhavanAI + JALDOOT
+**[STATUS: ACTIVE]**
+Satellite-driven agri-tech platform. Uses AI remote sensing to detect crop water-stress via satellite imagery, integrated with a digital marketplace for farmers.
 
 </td>
 <td width="50%" valign="top">
 
-### 🚨 PRAHARI
-**Railway Convergence Risk AI**
-Real-time deep learning system for detecting loco-pilot fatigue, microsleep, and railway convergence risk.
+### 🚂 MISSION: PRAHARI
+**[STATUS: DEPLOYED]**
+Real-time deep learning computer vision system detecting loco-pilot fatigue, microsleep, and railway convergence risks to prevent accidents.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚁 NIDAR AirMouse
-**Autonomous GPS-Denied Drone**
-Track 1 drone innovation: indoor search, mapping & survivor localization using LIDAR, thermal, and depth cameras.
+### 🚁 MISSION: NIDAR AirMouse
+**[STATUS: IN_DEVELOPMENT]**
+Autonomous GPS-denied drone. Features indoor search, mapping, and survivor localization using LIDAR, thermal tracking, and sensor fusion.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 EchoLive
-**AI Multilingual Platform**
-Real-time multilingual speech recognition, translation, AI dubbing, live captioning, and lip-synced output.
+### 🎙️ MISSION: EchoLive
+**[STATUS: ACTIVE]**
+Next-gen AI multilingual platform. Performs real-time speech recognition, translation, AI dubbing, and lip-synced output across languages.
 
 </td>
 </tr>
 </table>
 
 <details>
-  <summary><b>📂 Click to view more VETRINEX projects</b></summary>
+  <summary><b><kbd>+ DECRYPT ADDITIONAL CLASSIFIED PROJECTS</kbd></b></summary>
   <br>
   <ul>
-    <li><b>🏥 MedAssist AI:</b> Multilingual AI assistant delivering accessible healthcare guidance across Indian languages.</li>
-    <li><b>📈 MOONIQ:</b> AI Crypto Intelligence Platform for sentiment analysis and market trend prediction.</li>
-    <li><b>🏠 SecureLand:</b> Property Intelligence Platform utilizing AI Geospatial Analytics and Blockchain for fraud detection.</li>
-    <li><b>🧬 Bioxen:</b> Biomedical Cleanroom Monitoring for anomaly detection and environmental compliance.</li>
-    <li><b>🎲 Cymatic RNG:</b> ML pipeline exploring cymatic vibration patterns as an entropy source.</li>
+    <li><b>🏥 MedAssist AI:</b> Multilingual AI healthcare assistant.</li>
+    <li><b>📈 MOONIQ:</b> AI Crypto intelligence & sentiment analysis.</li>
+    <li><b>🏠 SecureLand:</b> Geospatial Analytics + Blockchain for property fraud detection.</li>
+    <li><b>🧬 Bioxen:</b> Biomedical anomaly detection systems.</li>
+    <li><b>🎲 Cymatic RNG:</b> Cryptographic random number generation using physical vibrations.</li>
   </ul>
 </details>
 
 <br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0891B2,50:22D3EE,70:0891B2,100:0D1117&height=2&width=900&animation=fadeIn" width="100%" alt="divider" />
-</div>
-
-## 📈 `github_analytics.dashboard`
-
-<div align="center">
-  <!-- Fixed GitHub Stats & Top Langs URLs -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopi45-gk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=22D3EE&icon_color=34D399&text_color=C9D1D9" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi45-gk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" width="48%" alt="Top languages" />
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8A2BE2,100:0D1117&height=2&width=1000&animation=fadeIn" width="100%" alt="Neon Divider" />
 <br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=---%3E+FETCHING+GLOBAL+METRICS+---%3E" alt="Metrics Loading" />
+</div>
 
 <div align="center">
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi45-gk&theme=tokyo-night&bg_color=0D1117&color=22D3EE&line=34D399&point=FBBF24&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi45-gk&theme=radical&bg_color=0D1117&color=00F0FF&line=FF00FF&point=00FF41&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Fixed Trophies URL -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopi45-gk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=FFFFFF" width="49%" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Gopi45-gk&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00FF&currStreakLabel=00FF41" width="49%" alt="GitHub streak" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gopi45-gk&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies" />
 </div>
 
 <br>
-
-<div align="center">
-  <!-- Fixed Streak Stats URL -->
-  <img src="https://streak-stats.demolab.com?user=Gopi45-gk&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE" width="60%" alt="GitHub streak" />
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF41,100:0D1117&height=2&width=1000&animation=fadeIn" width="100%" alt="Neon Divider" />
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0891B2,50:22D3EE,70:0891B2,100:0D1117&height=2&width=900&animation=fadeIn" width="100%" alt="divider" />
-</div>
-
-## 🐍 `contribution_matrix.svg`
+## 🐍 `[SYSTEM_CONTRIBUTIONS.SVG]`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Gopi45-gk/Gopi45-gk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
 </div>
-<br>
-<p align="center">
-  <sub><b>Note:</b> For the snake animation to work, make sure you have setup the <a href="https://github.com/Platane/snk">platane/snk</a> GitHub Action in this repository to generate the file in the <code>output</code> branch.</sub>
-</p>
 
 <br>
 
 <div align="center">
-<!-- ===================== ANIMATED FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:0891B2,50:22D3EE,70:0891B2,100:0D1117&height=6&width=1000&animation=fadeIn" width="100%" alt="accent bar" />
+<!-- ===================== FOOTER / LOGOFF SEQUENCE ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF00FF,100:00F0FF&height=4&width=1000&animation=fadeIn" width="100%" alt="accent bar" />
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=700&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=Let's+build+something+intelligent+together.+%E2%9C%A8;Thanks+for+visiting+my+profile!" alt="Closing animation" /><br>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=CONNECTION_TERMINATED.;%3E+Thanks+for+visiting+my+database.;%3E+Let's+build+the+future+together." alt="Closing animation" /><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,40:0891B2,70:0369A1,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:00F0FF,50:8A2BE2,80:FF00FF,100:0D1117&height=150&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
 </div>
