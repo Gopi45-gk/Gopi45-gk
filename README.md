@@ -1,164 +1,240 @@
-<div align="center">
+# 👋 Hi, I'm GOPIKRISHNA S
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Gopikrishna%20S&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Founder%20%26%20Tech%20Lead%20@%20VETRINEX&descAlignY=55&descSize=20&stroke=00C6FF&strokeWidth=1" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning+Student;AI+%7C+Machine+Learning+%7C+Computer+Vision;Full-Stack+Developer+%7C+Problem+Solver;Building+AI+Solutions+for+Real-World+Problems" alt="Typing SVG" />
 
-<a href="https://gopikrishna.co.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+for+Real+Indian+Problems+%F0%9F%87%AE%F0%9F%87%B3;Agriculture+%C2%B7+Railways+%C2%B7+Healthcare;Hackathon+Builder+%E2%80%94+Idea+to+Working+Demo;Founder+%26+Tech+Lead+%40+VETRINEX" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22d3ee&height=180&section=header&text=GOPIKRISHNA%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <b>🎓 B.E. Artificial Intelligence & Machine Learning</b><br>
+  <b>🤖 AI & ML Developer | 💻 Full-Stack Developer | 🔬 Computer Vision Enthusiast</b>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Gopi45-gk&label=Profile%20Views&color=00C6FF&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Gopi45-gk?label=Followers&style=for-the-badge&color=6C63FF&logo=github" alt="followers"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
-</div>
-
----
-
-## 🧭 About Me
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
-
-- 🎓 B.E. Computer Science (AI & ML) student, Prathyusha Engineering College, Chennai
-- 🚀 Founder & Tech Lead of **[VETRINEX](https://gopikrishna.co.in)** 
-- 🧠 I live at the intersection of **hackathon strategy** and **real technical implementation**
-- 🌱 Focused on AI/ML for Indian societal domains: **agriculture · railways · healthcare**
-- 🏆 Multiple hackathon first-place wins
-- 📍 Chennai, India · 🌐 [gopikrishna.co.in](https://gopikrishna.co.in)
-- ⚡ Fun fact: I've also chased a **world record in yoga**
-
-<br clear="both"/>
+<p align="center">
+  <a href="mailto:gopikaru0090@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gopikaru0090%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gopikrishna-s-022856302">
+    <img src="https://img.shields.io/badge/LinkedIn-Gopikrishna%20S-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gopi">
+    <img src="https://img.shields.io/badge/GitHub-gopi-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Featured Projects
+## 🚀 About Me
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-</div>
+I'm a B.E. Artificial Intelligence and Machine Learning student at **Prathyusha Engineering College** with a **CGPA of 8.71**.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+I enjoy transforming ideas into practical AI-powered products and solving real-world problems through **Machine Learning, Computer Vision, Data Analytics, and Full-Stack Development**.
 
-### 🌾 JALDOOT + UZHAVAN AI
-Satellite-based crop water-stress detection and farmer advisory system built for Indian agriculture.
+My experience includes internships and industry training in **Machine Learning, Full-Stack Development, and Database Management**, where I gained hands-on exposure to building software solutions and working with data.
 
-</td>
-<td width="50%" valign="top">
-
-### 🚆 PRAHARI
-Railway safety AI platform for real-time convergence risk detection.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 MedAssist AI
-Multilingual healthcare AI assistant designed for India's language diversity.
-
-</td>
-<td width="50%" valign="top">
-
-### 🚁 NIDAR AirMouse
-Autonomous GPS-denied indoor drone for search, mapping & survivor localisation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎲 Cymatic-Driven Secure RNG
-ML pipeline that turns cymatic wave patterns into secure random numbers.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏎️ YANTRAMANAV
-SAE BAJA competition entry, Prathyusha Engineering College.
-
-</td>
-</tr>
-</table>
+🎯 **Current Focus:** AI Engineering • Machine Learning • Computer Vision • Full-Stack AI Applications
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Technical Skills
 
-<div align="center">
+### 💻 Programming
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,nodejs" />
+</p>
 
-<br/><br/>
+### 🤖 AI / ML
 
-**Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,python,firebase,mongodb,aws&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-<br/><br/>
+**Machine Learning • Computer Vision • Deep Learning • Data Analytics • AI Applications**
 
-**AI / ML & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,vercel,git,vscode&theme=dark" />
+### 🗄️ Database & Backend
 
-</div>
+`SQL` `MySQL` `Firebase` `Node.js`
 
----
+### 🛠️ Tools
 
-## 📊 GitHub Stats & Activity
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode,jupyter" />
+</p>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gopi45-gk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=6C63FF&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopi45-gk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopi45-gk&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=6C63FF&currStreakLabel=00C6FF" alt="streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopi45-gk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C6FF&line=6C63FF&point=ffffff&area=true" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gopi45-gk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" width="100%"/>
-
-</div>
+`Power BI` `Microsoft Excel` `Jupyter Notebook`
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 Featured Projects
 
-<div align="center">
+## 🌾 UzhavanAI — AI Agri-Tech Solution
 
-<!-- Requires a one-time GitHub Action — see setup note below -->
-<img src="https://raw.githubusercontent.com/Gopi45-gk/Gopi45-gk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+> AI-powered agricultural assistance platform designed to help farmers with smarter decision-making.
 
-</div>
-
-> **Setup note:** the snake animation above renders only after you add the free `platane/snk` GitHub Action to this repo. I've included the exact workflow file separately — drop it in `.github/workflows/snake.yml`, push once, and it self-generates on a daily schedule.
+**Focus:** `Artificial Intelligence` `Agriculture` `Decision Support`
 
 ---
 
-## 🤝 Connect With Me
+## 🚨 PRAHARI — AI-Powered Fatigue Detection
 
-<div align="center">
+> Real-time AI system designed to detect loco-pilot fatigue and microsleep using Computer Vision and Deep Learning.
 
-<a href="https://gopikrishna.co.in"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Gopi45-gk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Technologies:** `CNN` `BiLSTM` `Facial Landmark Analysis` `Computer Vision`
 
-<br/><br/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="450">
+## 🌐 EchoLive — AI Communication Platform
 
-</div>
+> Real-time multilingual communication platform combining speech recognition, translation, and AI dubbing.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer" width="100%"/>
+**Features:** `Live Captioning` `Speech Recognition` `Translation` `AI Dubbing` `Lip Sync`
+
+---
+
+## 🏠 SecureLand — Property Intelligence Platform
+
+> AI-powered land protection platform focused on fraud detection, ownership verification, and boundary monitoring.
+
+**Technologies:** `AI` `Geospatial Analytics` `Blockchain` `Risk Assessment`
+
+---
+
+## 📈 MOONIQ — AI Crypto Intelligence Platform
+
+> AI-based crypto intelligence platform for sentiment analysis, rumor detection, and market trend prediction.
+
+**Features:** `Sentiment Analysis` `Market Intelligence` `Multilingual Support` `Real-Time Insights`
+
+---
+
+## 🧬 Bioxen — Biomedical Monitoring System
+
+> AI-based cleanroom monitoring platform designed for pharmaceutical environments.
+
+**Focus:** `Anomaly Detection` `Environmental Monitoring` `Compliance Analytics`
+
+---
+
+# 🏆 Achievements
+
+🥇 **1st Prize** — Project Expo at Vel Tech R&D Institute
+
+🥇 **1st Prize** — Project Expo at Agni College of Technology
+
+🥇 **1st Prize** — Paper Presentation at King's College of Engineering
+
+🥇 **1st Prize** — Paper Presentation at Sri Venkateshwara Engineering and Technology
+
+🏅 **PALS InnoWAH Finalist** — Best Appreciation Award + Amazon Voucher
+
+🏆 **Best Team Award** — Hackathon–Codeathon, Prathyusha Engineering College
+
+🌐 **13th Rank** — NIDAR 2025 National-Level Innovation Competition
+
+🏅 **Finalist** — India–Israel Hackathon
+
+These achievements are documented in my resume.
+
+---
+
+# 💼 Experience
+
+### 🤖 Machine Learning Intern
+
+**ReTech Solutions Private Limited**
+
+Hands-on experience implementing Machine Learning models and performing data analysis to derive actionable insights.
+
+### 💻 Full-Stack Development Intern
+
+**Femtosoft Technology**
+
+Training and practical experience in Python-based full-stack development and end-to-end application components.
+
+### 🗄️ Database Intern
+
+**NIELIT**
+
+Worked with MySQL and database management, including schema design and relational data optimization.
+
+### 🏢 Industry Training
+
+**Career Solutions**
+
+Participated in an industry-readiness program focused on professional software standards and corporate workflows.
+
+---
+
+# 📜 Certifications
+
+🏅 **NPTEL — Introduction to IoT** — Elite
+
+🏅 **NPTEL — Joy of Computing** — Elite
+
+🏅 **HackerRank — SQL** — Intermediate
+
+🏅 **HackerRank — Software Engineer**
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gopi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gopi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+---
+
+# 💡 What I Build
+
+```text
+AI Solutions
+     ↓
+Machine Learning
+     ↓
+Computer Vision
+     ↓
+Data & Intelligence
+     ↓
+Full-Stack Applications
+     ↓
+Real-World Impact
+```
+
+I believe the best technology is not just technically impressive — **it should solve a meaningful problem.**
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:gopikaru0090@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Talk-Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gopikrishna-s-022856302">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>⭐ Building. Learning. Innovating. ⭐</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0ea5e9,100:0f172a&height=120&section=footer"/>
+</p>
